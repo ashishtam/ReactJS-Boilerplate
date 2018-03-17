@@ -17,10 +17,14 @@ babel-plugin-react-html-attrs | Allows us to use class and for inside JSX.
 babel-preset-env | Used for compiling ES6+ code as ES5 for backwards compatibility.
 babel-preset-react | Babel presets for React.
 babel-preset-stage-0 | Experimental features for Babel.
+css-loader | Required for SASS support.
 html-loader | For processing HTML with Webpack.
 html-webpack-plugin | For processing HTML with Webpack.
+node-sass | Required for SASS support.
 react | For React.
 react-dom | For React to render the DOM.
+sass-loader | Required for SASS support.
+style-loader |  Required for SASS support.
 webpack | For Webpack.
 webpack-cli | Required for Webpack as of Webpack 4.
 webpack-dev-server  | Serves a Webpack app. Updates the browser on changes.
